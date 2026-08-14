@@ -71,8 +71,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehalpawar29&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalpawar29&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snehalpawar29&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -80,16 +79,12 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=snehalpawar29&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=snehalpawar29&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snehalpawar29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" width="100%"/>
-</p>
 
 ---
 
