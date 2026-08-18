@@ -68,6 +68,30 @@
 
 ---
 
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehalpawar29&bg_color=0F172A&color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehalpawar29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalpawar29&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=snehalpawar29&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
