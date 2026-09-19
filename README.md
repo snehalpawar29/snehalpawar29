@@ -1,131 +1,128 @@
+<div align="center">
+
 # 👋 Hi, I'm Snehal Pawar
 
 ### ☁️ Aspiring DevOps Engineer | AWS | Cloud | Automation
 
-I’m an aspiring **DevOps Engineer** with hands-on experience in cloud infrastructure, containerization, CI/CD, Kubernetes, and Infrastructure as Code.
+Building my skills in **Cloud Infrastructure, DevOps, CI/CD, Containers & Automation**.
 
-I enjoy learning by building practical projects, troubleshooting real deployment issues, and continuously improving my understanding of **AWS and DevOps technologies**.
+<br>
+
+<a href="https://www.linkedin.com/in/snehalpawar29">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://snehalpawar29.github.io/Snehal-Pawar-Devops-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:snehalpawar2945@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- ☁️ Building hands-on experience with **AWS Cloud**
-- ⚙️ Learning and implementing **DevOps & CI/CD practices**
-- 🐳 Working with **Docker & containerized applications**
-- ☸️ Deploying applications using **Kubernetes & Amazon EKS**
-- 🏗️ Managing infrastructure using **Terraform**
-- 🔄 Building CI/CD pipelines with **Jenkins**
-- 🔐 Exploring **DevSecOps & container security**
-- 🐧 Comfortable working with **Linux environments**
-- 📚 Continuously learning through hands-on projects
+🎓 **Master of Computer Science graduate** focused on building a career in **DevOps and Cloud Engineering**.
+
+☁️ Hands-on with **AWS cloud infrastructure** and core cloud services.
+
+⚙️ Interested in **CI/CD, Infrastructure as Code, containerization and deployment automation**.
+
+🐳 Working with **Docker and Kubernetes** to understand modern application deployment.
+
+🏗️ Using **Terraform** to provision and manage cloud infrastructure.
+
+🔄 Building CI/CD workflows using **Jenkins and Git**.
+
+🔐 Exploring **DevSecOps and container security** with tools such as **Trivy**.
+
+🐧 Comfortable working in **Linux environments** and troubleshooting infrastructure issues.
+
+📚 I learn by **building, breaking, troubleshooting and improving** real-world setups.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ### ⚙️ DevOps & Automation
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white"/>
+</p>
 
-### 🐧 Operating Systems & Networking
+### 🐧 Systems & Networking
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
 
-**Networking:** TCP/IP • DNS • Subnetting • Load Balancing • Security Groups
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 EasyShop — DevSecOps CI/CD on AWS EKS
-
-A containerized e-commerce application deployed through a DevSecOps workflow.
-
-**Highlights:**
-- AWS infrastructure provisioned using **Terraform**
-- CI/CD automation using **Jenkins**
-- Containerization with **Docker**
-- Kubernetes deployment on **Amazon EKS**
-- Container vulnerability scanning using **Trivy**
-- Kubernetes workloads, services, persistent storage and autoscaling
-- HTTPS and ingress configuration
-
-**Tech:** `AWS EKS` `Terraform` `Jenkins` `Docker` `Kubernetes` `Trivy`
+**Networking:**  
+`TCP/IP` • `DNS` • `Subnetting` • `OSI Model` • `Load Balancing` • `Security Groups`
 
 ---
 
-### ☁️ AWS 3-Tier Architecture
+## 🔄 DevOps Mindset
 
-Designed and deployed a highly available 3-tier application architecture on AWS.
+<div align="center">
 
-**Highlights:**
-- Multi-AZ architecture
-- Public and private subnet design
-- EC2 application infrastructure
-- Application Load Balancers
-- RDS database
-- Auto Scaling
-- Route 53
-- CloudFront
-- CloudWatch monitoring
+### CODE → BUILD → TEST → SCAN → CONTAINERIZE → DEPLOY → MONITOR → AUTOMATE
 
-**Tech:** `AWS` `EC2` `VPC` `ALB` `RDS` `Route 53` `CloudFront` `CloudWatch`
+</div>
+
+I’m particularly interested in understanding how applications move from **source code to production** through automated and reliable workflows.
 
 ---
 
-### 🐳 Multi-Container Blog Application
+## 🎯 What I'm Focused On
 
-Containerized a full-stack blog application using Docker and deployed container workloads using AWS services.
-
-**Highlights:**
-- Frontend and backend containerization
-- PostgreSQL database container
-- Docker image management
-- Amazon ECR
-- Container networking
-- Application and database connectivity
-
-**Tech:** `Docker` `AWS ECS` `ECR` `React` `Node.js` `PostgreSQL`
-
----
-
-### ☸️ Full-Stack Chat Application — Kubernetes
-
-Deployed a full-stack chat application using Kubernetes.
-
-**Highlights:**
-- React frontend
-- Node.js backend
-- MongoDB database
-- Kubernetes Deployments
-- ClusterIP and NodePort Services
-- Persistent storage
-- Namespace-based application organization
-
-**Tech:** `Kubernetes` `Docker` `React` `Node.js` `MongoDB`
+| Area | Focus |
+|---|---|
+| ☁️ **Cloud** | AWS infrastructure & cloud services |
+| 🏗️ **Infrastructure** | Terraform & Infrastructure as Code |
+| 🐳 **Containers** | Docker & containerized applications |
+| ☸️ **Orchestration** | Kubernetes & Amazon EKS |
+| 🔄 **CI/CD** | Jenkins, Git & deployment automation |
+| 🔐 **DevSecOps** | Security scanning & secure pipelines |
+| 🐧 **Linux** | Administration, troubleshooting & scripting |
+| 🌐 **Networking** | TCP/IP, DNS, subnets & load balancing |
 
 ---
 
-## 🎯 DevOps Focus
+## 📈 Currently Learning
 
 ```text
-CODE → BUILD → TEST → SCAN → CONTAINERIZE → DEPLOY → MONITOR → AUTOMATE
+AWS Cloud
+    ↓
+Infrastructure as Code
+    ↓
+Docker & Kubernetes
+    ↓
+CI/CD Automation
+    ↓
+DevSecOps
+    ↓
+Cloud-Native Deployment
