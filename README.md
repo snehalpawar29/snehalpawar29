@@ -1,75 +1,64 @@
 <div align="center">
 
-# 👋 Hi, I'm **Snehal Pawar**
+# 👋 Hello, I'm Snehal Pawar
 
 ### ☁️ Aspiring DevOps Engineer | AWS | Cloud | Automation
 
-🚀 Building • ⚙️ Automating • ☁️ Deploying • 🔐 Securing
-
-<br>
-
-<a href="https://www.linkedin.com/in/snehalpawar29">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://snehalpawar29.github.io/Snehal-Pawar-Devops-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:snehalpawar2945@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=snehalpawar29&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+🚀 Building • Automating • Deploying • Learning
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-🎓 **Master of Computer Science graduate** building a career in **DevOps & Cloud Engineering**.
+🎓 **Master of Computer Science graduate** building my career in **DevOps and Cloud Engineering**.
 
-☁️ Hands-on with **AWS cloud infrastructure** and core AWS services.
+☁️ Interested in **AWS Cloud, DevOps, CI/CD, Infrastructure as Code, Containers and Automation**.
 
-⚙️ Interested in **CI/CD, Infrastructure as Code, containerization and automation**.
+🐳 Hands-on with **Docker and Kubernetes** for containerized application deployment.
 
-🐳 Working with **Docker & Kubernetes** for modern application deployment.
+🏗️ Working with **Terraform** for infrastructure provisioning and Infrastructure as Code.
 
-🏗️ Using **Terraform** to provision and manage infrastructure.
+🔄 Practicing **Jenkins, Git and CI/CD automation**.
 
-🔄 Building CI/CD workflows using **Jenkins & Git**.
+🔐 Exploring **DevSecOps and container security** using tools such as Trivy.
 
-🔐 Exploring **DevSecOps and container security** with **Trivy**.
+🐧 Comfortable with **Linux, networking, troubleshooting and basic shell scripting**.
 
-🐧 Comfortable working with **Linux environments, networking and troubleshooting**.
+🌱 Continuously learning through **hands-on projects, cloud deployments and troubleshooting real-world issues**.
 
-💡 I learn by **building, breaking, troubleshooting and improving** real-world setups.
+💡 **Learn → Build → Troubleshoot → Automate → Improve**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## ☁️ Cloud & Infrastructure
+### ☁️ Cloud & DevOps
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,linux,nginx" />
+
+</p>
+
+### 🔧 AWS Services
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
 <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
-## ⚙️ DevOps & Automation
+### ⚙️ DevOps Tools
 
 <p align="left">
 
@@ -83,153 +72,83 @@
 
 </p>
 
-## 🐧 Systems & Networking
+### 🌐 Networking & Systems
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/TCP%2FIP-1677FF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 </p>
 
 ---
 
-# 🌐 Core Skills
+## 🎯 Areas of Interest
 
 <div align="center">
 
-| ☁️ Cloud | ⚙️ DevOps | 🐳 Containers | 🏗️ Infrastructure |
-|:---:|:---:|:---:|:---:|
-| AWS | Jenkins | Docker | Terraform |
-| EC2 | Git | Kubernetes | IaC |
-| VPC | CI/CD | Amazon EKS | Cloud Infrastructure |
-| IAM | Automation | Containerization | Networking |
-| S3 | DevSecOps | Container Security | Load Balancing |
+| ☁️ Cloud | 🔄 DevOps | 🏗️ Infrastructure |
+|:---:|:---:|:---:|
+| AWS | CI/CD | Terraform |
+| EC2 | Jenkins | Infrastructure as Code |
+| VPC | Git | Cloud Architecture |
+| EKS | Automation | Networking |
+
+| 🐳 Containers | 🔐 Security | 🐧 Systems |
+|:---:|:---:|:---:|
+| Docker | DevSecOps | Linux |
+| Kubernetes | Trivy | Shell Scripting |
+| Containerization | Image Scanning | Troubleshooting |
+| Amazon EKS | Security Practices | Nginx |
 
 </div>
 
 ---
 
-# 🔄 DevOps Mindset
+## 🌱 Currently Learning
 
 <div align="center">
 
-### 💻 CODE
-### ↓
-### 🔨 BUILD
-### ↓
-### 🧪 TEST
-### ↓
-### 🔐 SCAN
-### ↓
-### 🐳 CONTAINERIZE
-### ↓
-### ☸️ DEPLOY
-### ↓
-### 📊 MONITOR
-### ↓
-### ⚙️ AUTOMATE
+☁️ **AWS Cloud & Infrastructure**
 
-</div>
+⬇️
 
-<br>
+🏗️ **Terraform & Infrastructure as Code**
 
-<div align="center">
+⬇️
 
-> **Learn → Build → Break → Troubleshoot → Automate → Improve**
+🐳 **Docker & Kubernetes**
 
-</div>
+⬇️
 
----
+🔄 **CI/CD & Jenkins**
 
-# 🎯 What I'm Focused On
+⬇️
 
-<div align="center">
+🔐 **DevSecOps & Container Security**
 
-☁️ **Cloud Infrastructure**
+⬇️
 
-🏗️ **Infrastructure as Code**
-
-🐳 **Containerization**
-
-☸️ **Kubernetes & Amazon EKS**
-
-🔄 **CI/CD Automation**
-
-🔐 **DevSecOps**
-
-🐧 **Linux & System Administration**
-
-🌐 **Networking & Troubleshooting**
+🚀 **Cloud-Native Deployment & Automation**
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+## 💻 DevOps Workflow
 
 <div align="center">
 
-```text
-☁️ AWS Cloud
-      ↓
-🏗️ Infrastructure as Code
-      ↓
-🐳 Docker & Containers
-      ↓
-☸️ Kubernetes
-      ↓
-🔄 CI/CD Automation
-      ↓
-🔐 DevSecOps
-      ↓
-🚀 Cloud-Native Deployment
-````
-
-</div>
-
-I'm continuously strengthening my skills through hands-on practice, troubleshooting, and real-world cloud deployments.
-
----
-
-# 💡 My DevOps Philosophy
-
-<div align="center">
-
-### 🧠 Understand the Technology
-
-### ↓
-
-### 🔨 Build Something
-
-### ↓
-
-### 💥 Break It
-
-### ↓
-
-### 🔍 Find the Problem
-
-### ↓
-
-### 🛠️ Fix It
-
-### ↓
-
-### ⚙️ Automate It
-
-### ↓
-
-### 🚀 Improve It
+**CODE** → **BUILD** → **TEST** → **SCAN** → **CONTAINERIZE** → **DEPLOY** → **MONITOR** → **AUTOMATE**
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -245,7 +164,7 @@ I'm continuously strengthening my skills through hands-on practice, troubleshoot
 
 ---
 
-# 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -255,7 +174,7 @@ I'm continuously strengthening my skills through hands-on practice, troubleshoot
 
 ---
 
-# 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -268,11 +187,11 @@ I'm continuously strengthening my skills through hands-on practice, troubleshoot
 </a>
 
 <a href="https://snehalpawar29.github.io/Snehal-Pawar-Devops-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:snehalpawar2945@gmail.com">
-<img src="https://img.shields.io/badge/Email-Snehal%20Pawar-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -281,15 +200,8 @@ I'm continuously strengthening my skills through hands-on practice, troubleshoot
 
 <div align="center">
 
-# ⚡ BUILD • AUTOMATE • DEPLOY • LEARN
+### ⚡ BUILD • AUTOMATE • DEPLOY • LEARN
 
-### ☁️ Aspiring DevOps Engineer
-
-**AWS • Linux • Docker • Kubernetes • Terraform • Jenkins • CI/CD**
-
-<br>
-
-⭐ **Thanks for visiting my profile!**
+**☁️ AWS | 🐳 Docker | ☸️ Kubernetes | 🏗️ Terraform | 🔄 Jenkins | 🔐 DevSecOps**
 
 </div>
-```
