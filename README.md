@@ -1,7 +1,3 @@
-You're right. The previous response accidentally **closed the code block too early**, so the rest of the README appeared outside the copy/paste box.
-
-Here is the **entire README in ONE single code block**. You can click **Copy** on the top-right of the box and paste it directly into GitHub. 👇
-
 ````markdown
 <div align="center">
 
