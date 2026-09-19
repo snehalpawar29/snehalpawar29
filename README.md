@@ -126,3 +126,26 @@ CI/CD Automation
 DevSecOps
     ↓
 Cloud-Native Deployment
+
+I'm continuously strengthening my skills through hands-on practice, troubleshooting and real-world cloud deployments.
+
+💡 My Approach
+
+Learn → Build → Break → Troubleshoot → Automate → Improve
+
+I believe the best way to learn DevOps is not only by studying tools, but by understanding why they are used, how they work together, and how to troubleshoot them when things fail.
+
+📊 GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=snehalpawar29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehalpawar29&theme=tokyonight&hide_border=true" /> </div>
+🌐 Let's Connect
+<div align="center"> <a href="https://github.com/snehalpawar29"> <img src="https://img.shields.io/badge/GitHub-Snehal%20Pawar-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/snehalpawar29"> <img src="https://img.shields.io/badge/LinkedIn-Snehal%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://snehalpawar29.github.io/Snehal-Pawar-Devops-Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> <a href="mailto:snehalpawar2945@gmail.com"> <img src="https://img.shields.io/badge/Email-Snehal%20Pawar-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+<div align="center">
+⚡ BUILD • AUTOMATE • DEPLOY • LEARN
+
+Aspiring DevOps Engineer | AWS | Cloud | Automation
+
+</div> ```
