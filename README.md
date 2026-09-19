@@ -1,100 +1,131 @@
-<!-- ===================== HEADER ===================== -->
+# 👋 Hi, I'm Snehal Pawar
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=210&section=header&text=SNEHAL%20PAWAR&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=ASPIRING%20DEVOPS%20ENGINEER%20%7C%20AWS%20%7C%20CLOUD&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
-</p>
+### ☁️ Aspiring DevOps Engineer | AWS | Cloud | Automation
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+%E2%80%A2+Automating+%E2%80%A2+Deploying;MCS+Graduate" alt="Typing SVG" />
-</p>
+I’m an aspiring **DevOps Engineer** with hands-on experience in cloud infrastructure, containerization, CI/CD, Kubernetes, and Infrastructure as Code.
 
-<p align="center">
-  <a href="https://github.com/snehalpawar29">
-    <img src="https://img.shields.io/github/followers/snehalpawar29?label=Followers&style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://github.com/snehalpawar29">
-    <img src="https://komarev.com/ghpvc/?username=snehalpawar29&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/>
-  </a>
-</p>
+I enjoy learning by building practical projects, troubleshooting real deployment issues, and continuously improving my understanding of **AWS and DevOps technologies**.
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-🎓 **Master of Computer Science (MCS)** graduate focused on **DevOps, Cloud Computing and Software Development**.
-
-☁️ Hands-on with **AWS, Docker, Kubernetes, Linux and Git**.
-
-🚀 Interested in **CI/CD, cloud infrastructure, containerization and deployment automation**.
-
-📚 Continuously building practical projects and strengthening my cloud & DevOps skills.
-
----
-
-## ⚙️ DevOps & Cloud Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,githubactions" />
-</p>
-
-### 💻 Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,django,html,css" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,vscode,postman" />
-</p>
+- ☁️ Building hands-on experience with **AWS Cloud**
+- ⚙️ Learning and implementing **DevOps & CI/CD practices**
+- 🐳 Working with **Docker & containerized applications**
+- ☸️ Deploying applications using **Kubernetes & Amazon EKS**
+- 🏗️ Managing infrastructure using **Terraform**
+- 🔄 Building CI/CD pipelines with **Jenkins**
+- 🔐 Exploring **DevSecOps & container security**
+- 🐧 Comfortable working with **Linux environments**
+- 📚 Continuously learning through hands-on projects
 
 ---
 
-## 🚀 DevOps Focus
+## 🛠️ Tech Stack
 
-<p align="center">
+### ☁️ Cloud & Infrastructure
 
-`CODE` → `BUILD` → `TEST` → `CONTAINERIZE` → `DEPLOY` → `AUTOMATE`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-</p>
+### ⚙️ DevOps & Automation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
 
----
+### 🐧 Operating Systems & Networking
 
-## 📊 GitHub Contributions
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehalpawar29&bg_color=0F172A&color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/snehalpawar29">
-    <img src="https://img.shields.io/badge/GitHub-Snehal%20Pawar-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/snehal-pawar29/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+**Networking:** TCP/IP • DNS • Subnetting • Load Balancing • Security Groups
 
 ---
 
-<p align="center">
-  <b>⚡ Build • Automate • Deploy • Learn</b>
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=100&section=footer" width="100%"/>
-</p>
+### 🛒 EasyShop — DevSecOps CI/CD on AWS EKS
+
+A containerized e-commerce application deployed through a DevSecOps workflow.
+
+**Highlights:**
+- AWS infrastructure provisioned using **Terraform**
+- CI/CD automation using **Jenkins**
+- Containerization with **Docker**
+- Kubernetes deployment on **Amazon EKS**
+- Container vulnerability scanning using **Trivy**
+- Kubernetes workloads, services, persistent storage and autoscaling
+- HTTPS and ingress configuration
+
+**Tech:** `AWS EKS` `Terraform` `Jenkins` `Docker` `Kubernetes` `Trivy`
+
+---
+
+### ☁️ AWS 3-Tier Architecture
+
+Designed and deployed a highly available 3-tier application architecture on AWS.
+
+**Highlights:**
+- Multi-AZ architecture
+- Public and private subnet design
+- EC2 application infrastructure
+- Application Load Balancers
+- RDS database
+- Auto Scaling
+- Route 53
+- CloudFront
+- CloudWatch monitoring
+
+**Tech:** `AWS` `EC2` `VPC` `ALB` `RDS` `Route 53` `CloudFront` `CloudWatch`
+
+---
+
+### 🐳 Multi-Container Blog Application
+
+Containerized a full-stack blog application using Docker and deployed container workloads using AWS services.
+
+**Highlights:**
+- Frontend and backend containerization
+- PostgreSQL database container
+- Docker image management
+- Amazon ECR
+- Container networking
+- Application and database connectivity
+
+**Tech:** `Docker` `AWS ECS` `ECR` `React` `Node.js` `PostgreSQL`
+
+---
+
+### ☸️ Full-Stack Chat Application — Kubernetes
+
+Deployed a full-stack chat application using Kubernetes.
+
+**Highlights:**
+- React frontend
+- Node.js backend
+- MongoDB database
+- Kubernetes Deployments
+- ClusterIP and NodePort Services
+- Persistent storage
+- Namespace-based application organization
+
+**Tech:** `Kubernetes` `Docker` `React` `Node.js` `MongoDB`
+
+---
+
+## 🎯 DevOps Focus
+
+```text
+CODE → BUILD → TEST → SCAN → CONTAINERIZE → DEPLOY → MONITOR → AUTOMATE
