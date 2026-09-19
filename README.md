@@ -127,6 +127,10 @@ DevSecOps
     ↓
 Cloud-Native Deployment
 
+
+---
+
+
 I'm continuously strengthening my skills through hands-on practice, troubleshooting and real-world cloud deployments.
 
 💡 My Approach
